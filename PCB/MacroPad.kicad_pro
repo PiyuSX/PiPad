@@ -64,13 +64,26 @@
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|148475205|54742162|4373dffa-155e-4318-8641-623ceb8dba7a|b20c90a2-6fbd-4068-ae71-822e7534714d",
+          ""
+        ],
+        [
+          "courtyards_overlap|91815000|123706935|03fd36a9-a09a-4e69-9328-f45aa2261ce6|9508eaa0-b199-437a-81f3-298b6c2e2eb7",
+          ""
+        ],
+        [
+          "npth_inside_courtyard|147959555|51346302|6e4a183e-72a4-426e-94ac-01dd5775259c|b20c90a2-6fbd-4068-ae71-822e7534714d",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -530,7 +543,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MacroPad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
