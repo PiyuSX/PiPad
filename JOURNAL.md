@@ -93,3 +93,29 @@ so Thats it
 ![](https://cdn.piyushrajbanshi.com.np/pipad_assets/14_f6cc200a_image.png)
 
 **Total time spent: 1h 48m**
+
+
+
+# November 23, 2026: Fixed the Flaws
+
+![](https://cdn.piyushrajbanshi.com.np/pipad_assets/Screenshot%202026-11-23%20163747.png)
+
+So the reviewer send PiPad back with few case problems, so i went through the whole fusion design and fixed them.
+
+What I changed 
+
+Keyswitch hole : They were exactly 14.00mm which is too tight for the Keys so i changed all 9 to 14.2
+
+And switch plate height : While checking if found the plate sat about 1mm hight, the switch top housing is 15.6mm wide and overlapped the plate .I lowered the plate to sit on the witch neck, so the switches can actually clickin.
+
+Mounting: The case is 3 printed parts, the body (floor + sidewalls + 4 posts as once piece), the switch plate and the top plate 
+
+I also renamed the parts in the STEP so everything is celar now .
+
+Top Plate: It was only about 0.6 mm thick, so I made it 2.2 mm. It now sits on top of the sidewalls instead of overlapping them. The display window is now 24 x 7.6 mm  and a small frame under it holds the OLED in place
+
+I checked the assembly for overlaps and the top plate does not collied anything .
+
+**Total time spent: 2h**
+
+
