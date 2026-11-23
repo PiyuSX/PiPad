@@ -77,6 +77,25 @@ I documented the dev process, including the mistakes, redesigns and time spent o
 - [QMK Firmware](https://github.com/qmk/qmk_firmware) – Keyboard firmware framework.
 - [Joe Scotto's ScottoKicad](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad) – KiCad assets and resources used during PCB design.
 
+## Bill of Materials
+
+| Product | Qty | Price (USD) |
+|---|---|---|
+| Epomaker silent linear switches | 9 | $4.11 |
+| Seeed XIAO RP2040 | 1 | $3.90 |
+| 1N4148 diodes | 9 | $0.27 |
+| Rotary encoder with push button | 1 | $1.30 |
+| OLED 128x32 I2C display | 1 | $2.80 |
+| Custom PCB (JLCPCB) | 1 | $4.00 |
+| 3D printed case (JLC3DP), body + plate | 1 set | $4.00 |
+| Blank black keycaps (MX) | 9 | $4.95 |
+| M2 x 4 x 3.2 heat-set inserts | 4 | $0.13 |
+| M2 x 5 screws | 4 | $0.24 |
+| Aluminum encoder knob | 1 | $4.50 |
+| **Total** | | **$30.20** |
+
+Note: This price was last updated at 2026 NOV 
+
 ## Author
 
 **Piyush Rajbanshi**
