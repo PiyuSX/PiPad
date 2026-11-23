@@ -24,11 +24,8 @@ SO i have Made the schematics and in the PCB way and going on
 
 I made this upto here so The thing is i forgot to add the battery and the knob so next i will be doing is updating the schematics and then im coming back soon
 
+![](https://cdn.piyushrajbanshi.com.np/pipad_assets/Screenshot%202026-11-23%20201208.png)
 
-
-[![PiPad Demonstration](https://cdn.piyushrajbanshi.com.np/pipad_assets/Screenshot%202026-11-23%20201208.png)](https://cdn.piyushrajbanshi.com.np/pipad_assets/Recording%202026-11-07%20200044.mp4)
-
-[▶ Watch PiPad Demonstration](https://cdn.piyushrajbanshi.com.np/pipad_assets/Recording%202026-11-07%20200044.mp4)
 
 
 
